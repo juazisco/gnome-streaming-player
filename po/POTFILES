@@ -1,0 +1,5 @@
+data/org.gnome.Gnome-Streaming-Player.desktop.in
+data/org.gnome.Gnome-Streaming-Player.appdata.xml.in
+data/org.gnome.Gnome-Streaming-Player.gschema.xml
+src/window.uisrc/main.py
+src/window.py

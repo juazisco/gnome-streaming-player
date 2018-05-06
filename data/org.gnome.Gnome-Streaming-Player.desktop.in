@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=gnome-streaming-player
+Exec=gnome-streaming-player
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

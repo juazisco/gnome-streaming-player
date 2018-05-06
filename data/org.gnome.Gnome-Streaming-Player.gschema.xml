@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-streaming-player">
+	<schema id="org.gnome.Gnome-Streaming-Player" path="/org/gnome/Gnome-Streaming-Player/">
+	</schema>
+</schemalist>
